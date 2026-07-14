@@ -1,5 +1,10 @@
 # 💫 About Me:
-Full Stack Web Development projects (HTML, CSS, JavaScript, React, Node.js)<br>Beginner-friendly web & full stack projects<br>Backend development & real-world project structure<br>JavaScript, React, Node.js, Git, GitHub<br>HTML, CSS, JavaScript basics, GitHub<br>Turning chai ☕ into code 💻<br>
+💻 Backend Developer passionate about building scalable and reliable backend systems.<br>
+🚀 Building production-ready backend applications using <b>Node.js, TypeScript, Express.js, Prisma, PostgreSQL, Redis, Docker, and Next.js</b>.<br>
+⚡ Experienced in designing REST APIs, JWT Authentication, AWS S3 file uploads, BullMQ background jobs, and database-driven applications.<br>
+🌱 Exploring System Design, Microservices, Cloud Technologies, and distributed systems.<br>
+🤝 Open to collaborating on backend engineering and open-source projects.<br>
+🎯 Focused on writing clean, maintainable, and production-quality code.<br>
 
 
 ## 🌐 Socials:
